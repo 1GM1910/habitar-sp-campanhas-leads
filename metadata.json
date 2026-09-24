@@ -1,0 +1,6 @@
+{
+  "name": "Habitar SP - Apartamentos Mooca, Tatuapé e Vila Ema",
+  "description": "Lançamentos e apartamentos exclusivos na Mooca, Tatuapé e Vila Ema em São Paulo. Plantas modernas com varanda gourmet, lazer completo e condições especiais de financiamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
